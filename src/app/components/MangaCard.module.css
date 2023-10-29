@@ -1,0 +1,8 @@
+.mangaCardWrapper{
+    display: flex;
+    border: solid 1px;
+}
+
+.mangaInfoWrapper{
+    display: block;
+}
