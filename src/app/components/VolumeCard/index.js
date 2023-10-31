@@ -2,32 +2,62 @@
 import styles from './volumeCard.module.css';
 import Link from 'next/link';
 
+// volumeNumber, imgSrc, imgAlt, currentPrice, currentSeller, retailPrice, historicLow, historicSeller, historicDate, volumeSynopsis, publicationDate, printLength, volumeISBN
 const VolumeCard = ({volumeNumber, imgSrc, imgAlt, currentPrice, currentSeller, retailPrice, historicLow, historicSeller, historicDate, volumeSynopsis, publicationDate, printLength, volumeISBN}) => {
     return(
-        <div>
-            <h3>{volumeNumber}</h3>
-            <img src={imgSrc} alt={imgAlt}></img>
+        <div className={styles.volumeCardWrapper}>
+            <div className={styles.volumeInfoWrapper}>
+                
+                <div className={styles.volumeImage}>
+                    <img src={imgSrc} alt={imgAlt}></img>
+                </div>
+                
+                <div>
+                    <div>
+                        <h3 className={styles.titleText}>{volumeNumber}</h3>
+                        <p className={styles.otherText}>{volumeSynopsis}</p>
+                    </div>
 
-            <h4>Retail Price</h4>
-            <p>{retailPrice}</p>
+                    <div className={styles.horizontal}>
+                        <div>
+                            <h4>RETAIL PRICE</h4>
+                            <p className={styles.priceText}>${retailPrice}</p>
+                        </div>
 
-            <h4>Current Price</h4>
-            <p>Sold by {currentSeller} at ${currentPrice}</p>
+                        <div>
+                            <h4>CURRENT PRICE</h4>
+                            <p className={styles.priceText}>${currentPrice}</p>
+                            <p className={styles.priceInfo}>{currentSeller}</p>
+                        </div>
 
-            <h4>Historic Price</h4>
-            <p>Sold on {historicDate} by {historicSeller} at ${historicLow}</p>
+                        <div>
+                            <h4>HISTORIC PRICE</h4>
+                            <p className={styles.priceText}>${historicLow}</p>
+                            <p className={styles.priceInfo}>{historicDate} <br/> {historicSeller}</p>
+                        </div>
 
-            <h5>Synposis</h5>
-            <p>{volumeSynopsis}</p>
+                        <div>
+                            <h6 className={styles.labelText}>PUBLICATION DATE</h6>
+                            <p className={styles.otherText}>{publicationDate}</p>
+                        </div>
 
-            <h6>Publication Date</h6>
-            <p>{publicationDate}</p>
+                        <div>
+                            <h6 className={styles.labelText}>PRINT LENTH</h6>
+                            <p className={styles.otherText}>{printLength} pages</p>
+                        </div>
 
-            <h6>Print Length</h6>
-            <p>{printLength} pages</p>
+                        <div>
+                            <h6 className={styles.labelText}>ISBN-10</h6>
+                            <p className={styles.otherText}>{volumeISBN}</p>
+                        </div>
+                    </div>
 
-            <h6>ISBN-10</h6>
-            <p>{volumeISBN}</p>
+                    <div className={styles.horizontal}>
+                        
+                    </div>
+                </div>
+                
+            </div>
         </div>
     )
 }

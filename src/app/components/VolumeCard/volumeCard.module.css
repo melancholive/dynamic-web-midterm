@@ -1,0 +1,50 @@
+.volumeCardWrapper {
+    border: 1px solid rgb(159, 159, 159);
+    padding-top: 20px;
+}
+
+.volumeInfoWrapper {
+    display: flex;
+}
+
+.horizontal {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    width: 100%;
+}
+
+.volumeImage {
+    min-width: 260px;
+    max-width: 260px;
+    height: auto;
+}
+
+.volumeImage img{
+    width: 100%;
+}
+
+.priceText {
+    font-size: 27px;
+    color: rgb(93, 88, 120);
+    margin:0px;
+    padding:0px;
+}
+
+.priceInfo {
+    font-size: 13px;
+    color: rgb(128, 125, 145);
+}
+
+
+.labelText {
+    font-size: 15px;
+}
+
+.titleText {
+    font-size: 30px;
+}
+
+.otherText{
+    color: rgb(93, 88, 120);
+}

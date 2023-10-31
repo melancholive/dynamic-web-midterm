@@ -1,13 +1,13 @@
 * {
   box-sizing: border-box;
-  color: white;
+  color: rgb(38, 35, 58);
   padding: 10px;
   margin: 0;
 }
 
 html,
 body {
-  background-image: linear-gradient(black,rgb(16, 22, 44));
+  background-image: linear-gradient(rgb(205, 224, 235),rgb(255, 221, 221));
   height: 100%;
   margin: 0px;
   max-width: 100vw;

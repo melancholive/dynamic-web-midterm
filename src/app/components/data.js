@@ -1,6 +1,215 @@
 export default [
     {
-        "id": "24457",
+        "id":44489,
+        "volumes": [
+            {
+                "vol": "Land of the Lustrous Manga Volume 1",
+                "image": {
+                    "url": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dwa3932fe2/rightstuf/9781632364975_manga-land-of-the-lustrous-volume-1-primary.jpg",
+                    "alt": "Land of the Lustrous Manga Volume 1"
+                },
+                "current_price": "10.39",
+                "current_seller": "Crunchyroll",
+                "retail_price": "12.99",
+                "historic_low": "7.66",
+                "historic_seller": "RightStufAnime",
+                "historic_date": "June 25, 2023",
+                "synopsis": `In a world inhabited by crystalline lifeforms called The Lustrous, every unique gem must fight for their way of life against the threat of lunarians who would turn them into decorations. Phosphophyllite, the most fragile and brittle of gems, longs to join the battle. When Phos is instead assigned to complete a natural history of their world, it sounds like a dull and pointless task. But this new job brings Phos into contact with Cinnabar, a gem forced to live in isolation. Can Phos’s seemingly mundane assignment lead both Phos and Cinnabar to the fulfillment they desire?`,
+                "publication_date": "June 27, 2017",
+                "print_length": "192",
+                "isbn": "1632364972"
+            },
+            {
+                "vol": "Land of the Lustrous Manga Volume 2",
+                "image": {
+                    "url": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dw31473900/rightstuf/9781632364982_manga-land-of-the-lustrous-2-primary.jpg",
+                    "alt": "Land of the Lustrous Manga Volume 2"
+                },
+                "current_price": "10.39",
+                "current_seller": "Crunchyroll",
+                "retail_price": "12.99",
+                "historic_low": "6.06",
+                "historic_seller": "Amazon",
+                "historic_date": "December 18, 2018",
+                "synopsis": `Phosphophyllite is determined to find a job more suited Cinnabar’s many talents, but with no easy answers to be found on land, the quest turns seaward. Ventricosus the sea snail suggests that the creatures who live there may have the clue Phos is looking for. But the sea is hardly the optimal environment for a gemstone—will Phos make it back to shore in one piece?`,
+                "publication_date": "August 22, 2017",
+                "print_length": "192",
+                "isbn": "1632364980"
+            },
+            {
+                "vol": "Land of the Lustrous Manga Volume 3",
+                "image": {
+                    "url": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dwe8a9ab67/rightstuf/9781632365286_manga-land-of-the-lustrous-volume-3-primary.jpg",
+                    "alt": "Land of the Lustrous Manga Volume 3"
+                },
+                "current_price": "10.39",
+                "current_seller": "Crunchyroll",
+                "retail_price": "12.99",
+                "historic_low": "7.66",
+                "historic_seller": "RightStufAnime",
+                "historic_date": "June 25, 2023",
+                "synopsis": `Now with new legs, Phosphophyllite is ready to go to battle. But when that new strength is needed the most, Phos is too scared to use it. Mortified by this failure, Phos undertakes the self-imposed punishment of staying awake all winter while the other gems are asleep. But winter has its own share of dangers…`,
+                "publication_date": "October 24, 2017",
+                "print_length": "192",
+                "isbn": "1632365286"
+            },
+            {
+                "vol": "Land of the Lustrous Manga Volume 4",
+                "image": {
+                    "url": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dwd5efbcf9/rightstuf/9781632365293_manga-land-of-the-lustrous-volume-4-primary.jpg",
+                    "alt": "Land of the Lustrous Manga Volume 4"
+                },
+                "current_price": "10.39",
+                "current_seller": "Crunchyroll",
+                "retail_price": "12.99",
+                "historic_low": "7.66",
+                "historic_seller": "RightStufAnime",
+                "historic_date": "June 25, 2023",
+                "synopsis": `Spring has sprung, and the all the other gems are awake to see Phosphophyllite’s transformation. They are impressed with Phos’s new arms, and our hero can hardly stand the newfound popularity, especially when it attracts the scariest gem of all…Bort now wishes to be Phos’s partner in battle.`,
+                "publication_date": "December 26, 2017",
+                "print_length": "192",
+                "isbn": "1632365294"
+            },
+            {
+                "vol": "Land of the Lustrous Manga Volume 5",
+                "image": {
+                    "url": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dwdea96f3f/rightstuf/9781632366351_manga-land-of-the-lustrous-volume-5-primary.jpg",
+                    "alt": "Land of the Lustrous Manga Volume 5"
+                },
+                "current_price": "10.39",
+                "current_seller": "Crunchyroll",
+                "retail_price": "12.99",
+                "historic_low": "7.66",
+                "historic_seller": "RightStufAnime",
+                "historic_date": "June 25, 2023",
+                "synopsis": `Phosphophyllite is determined to find the truth about Kongō. Despite the other gems’ hatred of the Lunarians, Phos tries to get closer to them in an effort to communicate. But the work is dangerous, and Phos realizes this job might be more than one gem can handle…`,
+                "publication_date": "March 13, 2018",
+                "print_length": "208",
+                "isbn": "1632366355"
+            },
+            {
+                "vol": "Land of the Lustrous Manga Volume 6",
+                "image": {
+                    "url": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dwe8352d35/rightstuf/9781632366368_manga-land-of-the-lustrous-volume-6-primary.jpg",
+                    "alt": "Land of the Lustrous Manga Volume 6"
+                },
+                "current_price": "10.39",
+                "current_seller": "Crunchyroll",
+                "retail_price": "12.99",
+                "historic_low": "7.66",
+                "historic_seller": "RightStufAnime",
+                "historic_date": "June 25, 2023",
+                "synopsis": `Phosphophyllite has been immobilized in battle, with no one but Ghost Quartz around for backup. Both must last through the Lunarians’ relentless attack until help arrives, but it’s a tall task for this newly-minted pair. Will Phos’s partner be just another casualty in the ongoing war?`,
+                "publication_date": "July 17, 2018",
+                "print_length": "208",
+                "isbn": "1632366363"
+            },
+            {
+                "vol": "Land of the Lustrous Manga Volume 7",
+                "image": {
+                    "url": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dw7a6ba180/rightstuf/9781632366375_manga-land-of-the-lustrous-volume-7-primary.jpg",
+                    "alt": "Land of the Lustrous Manga Volume 7"
+                },
+                "current_price": "10.39",
+                "current_seller": "Crunchyroll",
+                "retail_price": "12.99",
+                "historic_low": "6.13",
+                "historic_seller": "Amazon",
+                "historic_date": "November 29, 2018",
+                "synopsis": `Now that Phosphophyllite’s head has been taken to the moon, there’s only one way to revive the defeated gem—with a risky head transplant. For better or worse, Lapis Lazuli’s head is available, but more than half of Phos’s original body has been lost. Assuming the transplant even works, will the resulting gem still be Phosphophyllite?`,
+                "publication_date": "November 20, 2018",
+                "print_length": "208",
+                "isbn": "1632366371"
+            },
+            {
+                "vol": "Land of the Lustrous Manga Volume 8",
+                "image": {
+                    "url": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dw76a4576a/rightstuf/9781632367273_manga-land-of-the-lustrous-volume-8-primary.jpg",
+                    "alt": "Land of the Lustrous Manga Volume 8"
+                },
+                "current_price": "10.39",
+                "current_seller": "Crunchyroll",
+                "retail_price": "12.99",
+                "historic_low": "7.66",
+                "historic_seller": "RightStufAnime",
+                "historic_date": "June 25, 2023",
+                "synopsis": `The quest for the truth continues as Phosphophyllite finally begins the journey to the moon, hoping to communicate with the Lunarians after so many failed attempts. While the gem is shocked and angered to learn that the enemy has been able to speak all along, this also means that they can provide answers. Will Phos be able to handle the truth?`,
+                "publication_date": "April 9, 2019",
+                "print_length": "208",
+                "isbn": "1632367270"
+            },
+            {
+                "vol": "Land of the Lustrous Manga Volume 9",
+                "image": {
+                    "url": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dwaae491a8/rightstuf/9781632368447_manga-land-of-the-lustrous-volume-9-primary.jpg",
+                    "alt": "Land of the Lustrous Manga Volume 9"
+                },
+                "current_price": "10.39",
+                "current_seller": "Crunchyroll",
+                "retail_price": "12.99",
+                "historic_low": "7.66",
+                "historic_seller": "RightStufAnime",
+                "historic_date": "June 25, 2023",
+                "synopsis": `Phosphophyllite has formed a team of deserters to take back to the moon. While there, the gems learn the shattering truth of what happened to their captured comrades. If Phos can help the Lunarians accomplish their ultimate goal, their leader promises to make the gems whole again, but there’s a catch. Meanwhile, the Lustrous back on Earth form their own plans…`,
+                "publication_date": "September 24, 2019",
+                "print_length": "208",
+                "isbn": "1632368447"
+            },
+            {
+                "vol": "Land of the Lustrous Manga Volume 10",
+                "image": {
+                    "url": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dw4f48ac8a/rightstuf/9781632369154_manga-land-of-lustrous-10-primary.jpg",
+                    "alt": "Land of the Lustrous Manga Volume 10"
+                },
+                "current_price": "10.39",
+                "current_seller": "Crunchyroll",
+                "retail_price": "12.99",
+                "historic_low": "7.66",
+                "historic_seller": "RightStufAnime",
+                "historic_date": "June 25, 2023",
+                "synopsis": `After failing to get Kongō to pray for the Lunarians, Phosphophyllite returns to the moon to regroup, but Padparadscha has been covered in Cinnabar’s poison, and Yellow Diamond has taken a severe psychological blow. Now Phos must come up with a new plan, but ideas are in short supply. Meanwhile, Cairngorm and the other gems are finding life on the moon to be surprisingly agreeable…`,
+                "publication_date": "February 25, 2020",
+                "print_length": "208",
+                "isbn": "163236915X"
+            },
+            {
+                "vol": "Land of the Lustrous Manga Volume 11",
+                "image": {
+                    "url": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dw50e2220c/rightstuf/9781632369895_manga-land-of-the-lustrous-volume-11-primary.jpg",
+                    "alt": "Land of the Lustrous Manga Volume 11"
+                },
+                "current_price": "10.39",
+                "current_seller": "Crunchyroll",
+                "retail_price": "12.99",
+                "historic_low": "7.66",
+                "historic_seller": "RightStufAnime",
+                "historic_date": "June 25, 2023",
+                "synopsis": `Two hundred years after a failed attack on the Lustrous, Phosphophyllite is reassembled and tries again to get Kongō to pray for the Lunarians. This attempt seems likely to succeed, and the Lunarians prepare to depart to nothingness, while the gemstones on the moon prepare to be left behind. Meanwhile, Euclase is awakened by the commotion between Phos and Kongō…`,
+                "publication_date": "August 31, 2021",
+                "print_length": "192",
+                "isbn": "1632369893"
+            },
+            {
+                "vol": "Land of the Lustrous Manga Volume 12",
+                "image": {
+                    "url": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dwae69825f/rightstuf/9781646516209_manga-land-of-the-lustrous-volume-12-primary.jpg",
+                    "alt": "Land of the Lustrous Manga Volume 12"
+                },
+                "current_price": "10.39",
+                "current_seller": "Crunchyroll",
+                "retail_price": "12.99",
+                "historic_low": "7.66",
+                "historic_seller": "RightStufAnime",
+                "historic_date": "June 25, 2023",
+                "synopsis": `Phosphophyllite is on the war path, determined to make Kongō pray at all costs. The other gems attempt to protect their precious Sensei, but can they stop the vicious onslaught? Meanwhile, on the moon, Cairngorm demands an explanation from Aechmea…`,
+                "publication_date": "August 22, 2023",
+                "print_length": "208",
+                "isbn": "1646516206"
+            },
+        ]
+    },
+    {
+        "id": 24457,
         "volumes": [
             {
                 "vol": "Puella Magi Madoka Magica: The Complete Omnibus Edition",
@@ -64,7 +273,7 @@ export default [
                 "retail_price": "12.99",
                 "historic_low": "7.79",
                 "historic_seller": "RightStufAnime",
-                "historic_date": "RightStufAnime Summer Sale 2023",
+                "historic_date": "June 25, 2023",
                 "synopsis": `Bound by the promise of a wish granted, magical girls are charged with battling the wraiths that move unseen through the masses of Mitakihara and devour the passions of their human prey. Mami, Kyouko, and Sayaka are of one mind when it comes to fighting these entities, but their task is hindered by squabbles within the group. Mami fears Sayaka and Kyouko will never see eye to eye, even as a giant wraith unlike any they’ve ever fought threatens to make a feast of them all!`,
                 "publication_date": "November 23, 2021",
                 "print_length": "162",
@@ -81,7 +290,7 @@ export default [
                 "retail_price": "12.99",
                 "historic_low": "7.79",
                 "historic_seller": "RightStufAnime",
-                "historic_date": "RightStufAnime Summer Sale 2023",
+                "historic_date": "June 25, 2023",
                 "synopsis": `Through Madoka’s sacrifice, no magical girl will face the tragic fate that once awaited them, though not one remembers the name of their savior—save Homura Akemi. Clinging to the memory of her dearest friend, Homura struggles to rely on her teammates, even when failing to do so has allowed the giant wraith to devour her powers! To reclaim her powers, Homura begins a desperate search for the giant wraith, finding help in the most unlikely of places…`,
                 "publication_date": "Feburary 22, 2022",
                 "print_length": "176",
@@ -98,7 +307,7 @@ export default [
                 "retail_price": "12.99",
                 "historic_low": "7.79",
                 "historic_seller": "RightStufAnime",
-                "historic_date": "RightStufAnime Summer Sale 2023",
+                "historic_date": "June 25, 2023",
                 "synopsis": `Weary of doubting her own memories, Homura succumbs to Wraith Madoka,which consumes Homura’s emotions until she slips into a peaceful stupor. Mami and Kyouko worry for their friend, but wraiths don’t actually kill humans—or so they thought. Whatever is behind the giant wraith’s power has also turned the creature into a deadly threat for the city...and the magical girls tasked with taking it down!`,
                 "publication_date": "June 21, 2022",
                 "print_length": "178",
@@ -107,216 +316,7 @@ export default [
         ]
     },
     {
-        "id":"",
-        "volumes": [
-            {
-                "vol": "Land of the Lustrous Manga Volume 1",
-                "image": {
-                    "url": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dwa3932fe2/rightstuf/9781632364975_manga-land-of-the-lustrous-volume-1-primary.jpg",
-                    "alt": "Land of the Lustrous Manga Volume 1"
-                },
-                "current_price": "10.39",
-                "current_seller": "Crunchyroll",
-                "retail_price": "12.99",
-                "historic_low": "7.66",
-                "historic_seller": "RightStufAnime",
-                "historic_date": "RightStufAnime Summer Sale 2023",
-                "synopsis": `In a world inhabited by crystalline lifeforms called The Lustrous, every unique gem must fight for their way of life against the threat of lunarians who would turn them into decorations. Phosphophyllite, the most fragile and brittle of gems, longs to join the battle. When Phos is instead assigned to complete a natural history of their world, it sounds like a dull and pointless task. But this new job brings Phos into contact with Cinnabar, a gem forced to live in isolation. Can Phos’s seemingly mundane assignment lead both Phos and Cinnabar to the fulfillment they desire?`,
-                "publication_date": "June 27, 2017",
-                "print_length": "192",
-                "isbn": "1632364972"
-            },
-            {
-                "vol": "Land of the Lustrous Manga Volume 2",
-                "image": {
-                    "url": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dw31473900/rightstuf/9781632364982_manga-land-of-the-lustrous-2-primary.jpg",
-                    "alt": "Land of the Lustrous Manga Volume 2"
-                },
-                "current_price": "10.39",
-                "current_seller": "Crunchyroll",
-                "retail_price": "12.99",
-                "historic_low": "6.06",
-                "historic_seller": "Amazon",
-                "historic_date": "December 18, 2018",
-                "synopsis": `Phosphophyllite is determined to find a job more suited Cinnabar’s many talents, but with no easy answers to be found on land, the quest turns seaward. Ventricosus the sea snail suggests that the creatures who live there may have the clue Phos is looking for. But the sea is hardly the optimal environment for a gemstone—will Phos make it back to shore in one piece?`,
-                "publication_date": "August 22, 2017",
-                "print_length": "192",
-                "isbn": "1632364980"
-            },
-            {
-                "vol": "Land of the Lustrous Manga Volume 3",
-                "image": {
-                    "url": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dwe8a9ab67/rightstuf/9781632365286_manga-land-of-the-lustrous-volume-3-primary.jpg",
-                    "alt": "Land of the Lustrous Manga Volume 3"
-                },
-                "current_price": "10.39",
-                "current_seller": "Crunchyroll",
-                "retail_price": "12.99",
-                "historic_low": "7.66",
-                "historic_seller": "RightStufAnime",
-                "historic_date": "RightStufAnime Summer Sale 2023",
-                "synopsis": `Now with new legs, Phosphophyllite is ready to go to battle. But when that new strength is needed the most, Phos is too scared to use it. Mortified by this failure, Phos undertakes the self-imposed punishment of staying awake all winter while the other gems are asleep. But winter has its own share of dangers…`,
-                "publication_date": "October 24, 2017",
-                "print_length": "192",
-                "isbn": "1632365286"
-            },
-            {
-                "vol": "Land of the Lustrous Manga Volume 4",
-                "image": {
-                    "url": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dwd5efbcf9/rightstuf/9781632365293_manga-land-of-the-lustrous-volume-4-primary.jpg",
-                    "alt": "Land of the Lustrous Manga Volume 4"
-                },
-                "current_price": "10.39",
-                "current_seller": "Crunchyroll",
-                "retail_price": "12.99",
-                "historic_low": "7.66",
-                "historic_seller": "RightStufAnime",
-                "historic_date": "RightStufAnime Summer Sale 2023",
-                "synopsis": `Spring has sprung, and the all the other gems are awake to see Phosphophyllite’s transformation. They are impressed with Phos’s new arms, and our hero can hardly stand the newfound popularity, especially when it attracts the scariest gem of all…Bort now wishes to be Phos’s partner in battle.`,
-                "publication_date": "December 26, 2017",
-                "print_length": "192",
-                "isbn": "1632365294"
-            },
-            {
-                "vol": "Land of the Lustrous Manga Volume 5",
-                "image": {
-                    "url": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dwdea96f3f/rightstuf/9781632366351_manga-land-of-the-lustrous-volume-5-primary.jpg",
-                    "alt": "Land of the Lustrous Manga Volume 5"
-                },
-                "current_price": "10.39",
-                "current_seller": "Crunchyroll",
-                "retail_price": "12.99",
-                "historic_low": "7.66",
-                "historic_seller": "RightStufAnime",
-                "historic_date": "RightStufAnime Summer Sale 2023",
-                "synopsis": `Phosphophyllite is determined to find the truth about Kongō. Despite the other gems’ hatred of the Lunarians, Phos tries to get closer to them in an effort to communicate. But the work is dangerous, and Phos realizes this job might be more than one gem can handle…`,
-                "publication_date": "March 13, 2018",
-                "print_length": "208",
-                "isbn": "1632366355"
-            },
-            {
-                "vol": "Land of the Lustrous Manga Volume 6",
-                "image": {
-                    "url": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dwe8352d35/rightstuf/9781632366368_manga-land-of-the-lustrous-volume-6-primary.jpg",
-                    "alt": "Land of the Lustrous Manga Volume 6"
-                },
-                "current_price": "10.39",
-                "current_seller": "Crunchyroll",
-                "retail_price": "12.99",
-                "historic_low": "7.66",
-                "historic_seller": "RightStufAnime",
-                "historic_date": "RightStufAnime Summer Sale 2023",
-                "synopsis": `Phosphophyllite has been immobilized in battle, with no one but Ghost Quartz around for backup. Both must last through the Lunarians’ relentless attack until help arrives, but it’s a tall task for this newly-minted pair. Will Phos’s partner be just another casualty in the ongoing war?`,
-                "publication_date": "July 17, 2018",
-                "print_length": "208",
-                "isbn": "1632366363"
-            },
-            {
-                "vol": "Land of the Lustrous Manga Volume 7",
-                "image": {
-                    "url": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dw7a6ba180/rightstuf/9781632366375_manga-land-of-the-lustrous-volume-7-primary.jpg",
-                    "alt": "Land of the Lustrous Manga Volume 7"
-                },
-                "current_price": "10.39",
-                "current_seller": "Crunchyroll",
-                "retail_price": "12.99",
-                "historic_low": "6.13",
-                "historic_seller": "Amazon",
-                "historic_date": "November 29, 2018",
-                "synopsis": `Now that Phosphophyllite’s head has been taken to the moon, there’s only one way to revive the defeated gem—with a risky head transplant. For better or worse, Lapis Lazuli’s head is available, but more than half of Phos’s original body has been lost. Assuming the transplant even works, will the resulting gem still be Phosphophyllite?`,
-                "publication_date": "November 20, 2018",
-                "print_length": "208",
-                "isbn": "1632366371"
-            },
-            {
-                "vol": "Land of the Lustrous Manga Volume 8",
-                "image": {
-                    "url": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dw76a4576a/rightstuf/9781632367273_manga-land-of-the-lustrous-volume-8-primary.jpg",
-                    "alt": "Land of the Lustrous Manga Volume 8"
-                },
-                "current_price": "10.39",
-                "current_seller": "Crunchyroll",
-                "retail_price": "12.99",
-                "historic_low": "7.66",
-                "historic_seller": "RightStufAnime",
-                "historic_date": "RightStufAnime Summer Sale 2023",
-                "synopsis": `The quest for the truth continues as Phosphophyllite finally begins the journey to the moon, hoping to communicate with the Lunarians after so many failed attempts. While the gem is shocked and angered to learn that the enemy has been able to speak all along, this also means that they can provide answers. Will Phos be able to handle the truth?`,
-                "publication_date": "April 9, 2019",
-                "print_length": "208",
-                "isbn": "1632367270"
-            },
-            {
-                "vol": "Land of the Lustrous Manga Volume 9",
-                "image": {
-                    "url": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dwaae491a8/rightstuf/9781632368447_manga-land-of-the-lustrous-volume-9-primary.jpg",
-                    "alt": "Land of the Lustrous Manga Volume 9"
-                },
-                "current_price": "10.39",
-                "current_seller": "Crunchyroll",
-                "retail_price": "12.99",
-                "historic_low": "7.66",
-                "historic_seller": "RightStufAnime",
-                "historic_date": "RightStufAnime Summer Sale 2023",
-                "synopsis": `Phosphophyllite has formed a team of deserters to take back to the moon. While there, the gems learn the shattering truth of what happened to their captured comrades. If Phos can help the Lunarians accomplish their ultimate goal, their leader promises to make the gems whole again, but there’s a catch. Meanwhile, the Lustrous back on Earth form their own plans…`,
-                "publication_date": "September 24, 2019",
-                "print_length": "208",
-                "isbn": "1632368447"
-            },
-            {
-                "vol": "Land of the Lustrous Manga Volume 10",
-                "image": {
-                    "url": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dw4f48ac8a/rightstuf/9781632369154_manga-land-of-lustrous-10-primary.jpg",
-                    "alt": "Land of the Lustrous Manga Volume 10"
-                },
-                "current_price": "10.39",
-                "current_seller": "Crunchyroll",
-                "retail_price": "12.99",
-                "historic_low": "7.66",
-                "historic_seller": "RightStufAnime",
-                "historic_date": "RightStufAnime Summer Sale 2023",
-                "synopsis": `After failing to get Kongō to pray for the Lunarians, Phosphophyllite returns to the moon to regroup, but Padparadscha has been covered in Cinnabar’s poison, and Yellow Diamond has taken a severe psychological blow. Now Phos must come up with a new plan, but ideas are in short supply. Meanwhile, Cairngorm and the other gems are finding life on the moon to be surprisingly agreeable…`,
-                "publication_date": "February 25, 2020",
-                "print_length": "208",
-                "isbn": "163236915X"
-            },
-            {
-                "vol": "Land of the Lustrous Manga Volume 11",
-                "image": {
-                    "url": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dw50e2220c/rightstuf/9781632369895_manga-land-of-the-lustrous-volume-11-primary.jpg",
-                    "alt": "Land of the Lustrous Manga Volume 11"
-                },
-                "current_price": "10.39",
-                "current_seller": "Crunchyroll",
-                "retail_price": "12.99",
-                "historic_low": "7.66",
-                "historic_seller": "RightStufAnime",
-                "historic_date": "RightStufAnime Summer Sale 2023",
-                "synopsis": `Two hundred years after a failed attack on the Lustrous, Phosphophyllite is reassembled and tries again to get Kongō to pray for the Lunarians. This attempt seems likely to succeed, and the Lunarians prepare to depart to nothingness, while the gemstones on the moon prepare to be left behind. Meanwhile, Euclase is awakened by the commotion between Phos and Kongō…`,
-                "publication_date": "August 31, 2021",
-                "print_length": "192",
-                "isbn": "1632369893"
-            },
-            {
-                "vol": "Land of the Lustrous Manga Volume 12",
-                "image": {
-                    "url": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dwae69825f/rightstuf/9781646516209_manga-land-of-the-lustrous-volume-12-primary.jpg",
-                    "alt": "Land of the Lustrous Manga Volume 12"
-                },
-                "current_price": "10.39",
-                "current_seller": "Crunchyroll",
-                "retail_price": "12.99",
-                "historic_low": "7.66",
-                "historic_seller": "RightStufAnime",
-                "historic_date": "RightStufAnime Summer Sale 2023",
-                "synopsis": `Phosphophyllite is on the war path, determined to make Kongō pray at all costs. The other gems attempt to protect their precious Sensei, but can they stop the vicious onslaught? Meanwhile, on the moon, Cairngorm demands an explanation from Aechmea…`,
-                "publication_date": "August 22, 2023",
-                "print_length": "208",
-                "isbn": "1646516206"
-            },
-        ]
-    },
-    {
-       "id": "89087",
+       "id": 89087,
        "volumes": [
             {
                 "vol": "Wotakoi Love Is Hard for Otaku Complete Manga Box Set",
@@ -338,7 +338,7 @@ export default [
        ] 
     },
     {
-        "id": "105084",
+        "id": 105084,
         "volumes": [
             {
                 "vol": "Toilet-bound Hanako-kun First Stall Manga Box Set",
@@ -368,7 +368,7 @@ export default [
                 "retail_price": "12.99",
                 "historic_low": "7.79",
                 "historic_seller": "RightStufAnime",
-                "historic_date": "RightStufAnime Summer Sale 2023",
+                "historic_date": "June 25, 2023",
                 "synopsis": `At long last, Hanako-kun reveals his plan to save Nene from her inevitable, swiftly approaching death. But even knowing his intentions, Nene is determined to return to reality-and to do that, she'll need the help of School Mystery No. 4, Mei Shijima. Can Nene overcome this ghost's regrets and self-loathing to find her way home?!`,
                 "publication_date": "November 16, 2021",
                 "print_length": "178",
@@ -385,7 +385,7 @@ export default [
                 "retail_price": "12.99",
                 "historic_low": "7.79",
                 "historic_seller": "RightStufAnime",
-                "historic_date": "RightStufAnime Summer Sale 2023",
+                "historic_date": "June 25, 2023",
                 "synopsis": `Shijima-san is willing to help Nene and her friends escape from the painting, but they don't have much time to reach the distant exit. To make matters worse, Hanako-kun is pulling out all the stops to keep them from leaving. And when Nene pours all her feelings into trying to convince him to let them go, she’s shocked by the genuine emotion that wells up from out of him...`,
                 "publication_date": "January 18, 2022",
                 "print_length": "178",
@@ -402,7 +402,7 @@ export default [
                 "retail_price": "12.99",
                 "historic_low": "7.79",
                 "historic_seller": "RightStufAnime",
-                "historic_date": "RightStufAnime Summer Sale 2023",
+                "historic_date": "June 25, 2023",
                 "synopsis": `Nene and Akane are rescued from the clutches of a horde of supernaturals by School Mystery No. 6...who then immediately kidnaps Aoi?! With so many School Mystery seats unfilled and the long, dark night of Urabon here at last, Aoi may be the only one who can save the school from disaster--but at what cost?`,
                 "publication_date": "April 26, 2022",
                 "print_length": "178",
@@ -436,7 +436,7 @@ export default [
                 "retail_price": "12.99",
                 "historic_low": "7.79",
                 "historic_seller": "RightStufAnime",
-                "historic_date": "RightStufAnime Summer Sale 2023",
+                "historic_date": "June 25, 2023",
                 "synopsis": `Nene’s best friend Aoi has been trapped on the Far Shore—but to Hanako-kun, who has been worrying for ages over how to save Nene from her rapidly approaching death, this turn of events is exactly what he needs. Nene and Akane have no intention of letting Aoi be sacrificed instead, but when every supernatural in the school starts to disappear, they realize it might already be too late. Is it time to say goodbye to the paranormal inhabitants of Kamome Academy once and for all?!`,
                 "publication_date": "August 16, 2022",
                 "print_length": "178",
@@ -453,7 +453,7 @@ export default [
                 "retail_price": "12.99",
                 "historic_low": "7.79",
                 "historic_seller": "RightStufAnime",
-                "historic_date": "RightStufAnime Summer Sale 2023",
+                "historic_date": "June 25, 2023",
                 "synopsis": `In exchange for a life, the link between this world and the next has been severed. Even so, Nene and Kou continue looking for a way to reach the boundaries, a search that leads them to the cursed "Red House." Inside, they find a boy who looks just like Hanako-kun and may have the answers they've been looking for-but they soon find the Red House is much easier to enter than to leave...`,
                 "publication_date": "October 4, 2022",
                 "print_length": "176",
@@ -470,7 +470,7 @@ export default [
                 "retail_price": "12.99",
                 "historic_low": "7.79",
                 "historic_seller": "RightStufAnime",
-                "historic_date": "RightStufAnime Summer Sale 2023",
+                "historic_date": "June 25, 2023",
                 "synopsis": `Nene has managed to escape the final resting place of all the kannagi sacrificed in this town, reuniting with Kou and the boy they now know to be a younger version of Tsukasa. As the beginning of the Yugi family tragedy is finally unveiled, Kou sees a chance to put everything to rights—if they can all escape the Red House. But this cursed mansion has already made the consequences of trying to free Tsukasa from its clutches very clear...`,
                 "publication_date": "February 21, 2023",
                 "print_length": "184",
@@ -487,7 +487,7 @@ export default [
                 "retail_price": "12.99",
                 "historic_low": "7.79",
                 "historic_seller": "RightStufAnime",
-                "historic_date": "RightStufAnime Summer Sale 2023",
+                "historic_date": "June 25, 2023",
                 "synopsis": `After being ripped apart by the severance between this world and the next, Nene and Hanako are finally reunited. That being said, it’s not exactly a happy reunion—with both their emotions running high, they’re all too quick to give in to anger. Meanwhile, as the Minamoto brothers have a spat of their own, No. 6 shows up out of nowhere—and he’s out for blood...`,
                 "publication_date": "July 18, 2023",
                 "print_length": "178",
@@ -504,7 +504,7 @@ export default [
                 "retail_price": "12.99",
                 "historic_low": "7.79",
                 "historic_seller": "RightStufAnime",
-                "historic_date": "RightStufAnime Summer Sale 2023",
+                "historic_date": "June 25, 2023",
                 "synopsis": `Thanks to the manipulations of those in the broadcast room, Nene and Sumire find themselves trapped once more in No. 6’s boundary. While Hanako-kun isn’t there to help them escape this time, they aren’t alone—No. 6 himself is there as well! Sumire is thrilled to be reunited with her beloved after so many years, and with No. 6 having come to terms with his feelings at long last, perhaps they have a chance to change how they left things…`,
                 "publication_date": "December 12, 2023",
                 "print_length": "178",
@@ -513,7 +513,7 @@ export default [
         ]
     },
     {
-        "id": "130826",
+        "id": 130826,
         "volumes": [
             {
                 "vol": "Heaven Officials Blessing Novel Volume 1",
