@@ -1,5 +1,6 @@
 "use-client"
 import styles from "./MangaCard.module.css";
+import StatusIcon from "./StatusIcon.js";
 
 const MangaCard = ({mangaTitle, mangaImage, mangaScore, numFavorites, completion, mangaSynopsis, mangaBackground}) => (
     <>
@@ -17,7 +18,7 @@ const MangaCard = ({mangaTitle, mangaImage, mangaScore, numFavorites, completion
                         <p>Favorites: {numFavorites}</p>
                     </div>
                     <div>
-                        <p>Status: {completion}</p>
+                        <p>Status: {completion} <StatusIcon completion ={completion}/></p>
                     </div>
                 </div>
                 <p>{mangaSynopsis}</p>

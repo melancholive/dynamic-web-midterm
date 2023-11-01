@@ -34,7 +34,7 @@ export default function Home({mangaData}){
 
     return(
         <>
-            <h1>Manga Information and Price Tracker</h1>
+            <h1>⋆⁺｡˚⋆˙‧₊☽ Manga Information and Price Tracker ☾₊‧˙⋆˚｡⁺⋆</h1>
             <Header/>
             <main>
                 
