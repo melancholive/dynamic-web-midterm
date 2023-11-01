@@ -1,8 +1,6 @@
 "use client";
 import styles from './volumeCard.module.css';
-import Link from 'next/link';
 
-// volumeNumber, imgSrc, imgAlt, currentPrice, currentSeller, retailPrice, historicLow, historicSeller, historicDate, volumeSynopsis, publicationDate, printLength, volumeISBN
 const VolumeCard = ({volumeNumber, imgSrc, imgAlt, currentPrice, currentSeller, retailPrice, historicLow, historicSeller, historicDate, volumeSynopsis, publicationDate, printLength, volumeISBN}) => {
     return(
         <div className={styles.volumeCardWrapper}>

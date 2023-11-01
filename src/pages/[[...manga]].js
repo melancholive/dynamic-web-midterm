@@ -3,7 +3,6 @@ import Header from "../app/components/Header.js";
 import MangaCard from '../app/components/MangaCard.js';
 import Data from '../app/components/data';
 import VolumeCard from '../app/components/VolumeCard';
-import styles from '../app/globals.css';
 
 export async function getStaticProps({params}){
     const manga = (params && params.manga) || "44489";
@@ -27,7 +26,6 @@ export const getStaticPaths = async () => {
 };
 
 export default function Home({mangaData}){
-    console.log(mangaData);
     if(!mangaData) return null;
 
     const seriesData = Data.find((val) => val.id === mangaData.data.mal_id);
